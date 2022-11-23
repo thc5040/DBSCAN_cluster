@@ -30,7 +30,7 @@ int main(void)
 clusterNum = dbscan(pointArray, 
                 POINT_NUM,
                 10,
-                0.23*0.23,
+                0.15*0.15,
                 20,
                 clusterIdx,
                 clusterInfo,
