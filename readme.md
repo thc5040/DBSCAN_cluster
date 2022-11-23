@@ -12,9 +12,9 @@ B站视频：https://www.bilibili.com/video/BV114411M7ci/?from=search&seid=18189
 
 参数1， matlab结果：
 
-![](./image\matlab_gscatter_1.jpg)
+![](./image/matlab_gscatter_1.jpg)
 
-![](./image\matlab_result1.jpg)
+![](./image/matlab_result1.jpg)
 
 
 
