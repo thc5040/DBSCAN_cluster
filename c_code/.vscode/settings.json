@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "process.h": "c",
+        "pthread_unistd.h": "c",
+        "errno.h": "c",
+        "stdio.h": "c",
+        "dbscan.h": "c"
+    }
+}
