@@ -16,6 +16,8 @@ B站视频：https://www.bilibili.com/video/BV114411M7ci/?from=search&seid=18189
 
 ![](.\image\matlab_result1.jpg)
 
+![](./image/matlab_result1.jpg)
+
 
 
 参数1， c结果，几乎是一样的，误差的来源可能是 dbscan 的结果与点的选取顺序有关：
