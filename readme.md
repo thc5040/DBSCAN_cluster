@@ -12,27 +12,26 @@ B站视频：https://www.bilibili.com/video/BV114411M7ci/?from=search&seid=18189
 
 参数1， matlab结果：
 
-![](.\image\matlab_gscatter_1.jpg)
+![](./image\matlab_gscatter_1.jpg)
 
-![](.\image\matlab_result1.jpg)
+![](./image\matlab_result1.jpg)
 
-![](./image/matlab_result1.jpg)
 
 
 
 参数1， c结果，几乎是一样的，误差的来源可能是 dbscan 的结果与点的选取顺序有关：
 
-![](.\image\c_result1.jpg)
+![](./image\c_result1.jpg)
 
 #### 例子2
 
 更换参数，结果对比如下，也是几乎一样的
 
-![](.\image\matlab_gscatter_2.jpg)
+![](./image\matlab_gscatter_2.jpg)
 
-![](.\image\matlab_result2.jpg)
+![](./image\matlab_result2.jpg)
 
-![](.\image\c_result2.jpg)
+![](./image\c_result2.jpg)
 
 #### 例子3
 
